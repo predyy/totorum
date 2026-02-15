@@ -53,7 +53,7 @@ Type commands into the UI and execute them. ✅
 
 ---
 
-## ⚠️ Disclaimer (Authorized Use + No Warranty)
+## ⚠️ Disclaimer
 
 This software is intended for **lawful security testing and educational purposes only**. Use it **only** on systems you own or where you have **explicit written permission** to test. Unauthorized use may be illegal and is strictly prohibited.
 
