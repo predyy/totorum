@@ -2,7 +2,6 @@
 
 A minimal, web-based shell page for **Next.js** — built for **CTFs** and **authorized penetration testing**.
 
----
 
 ## ✨ Features
 
@@ -11,7 +10,6 @@ A minimal, web-based shell page for **Next.js** — built for **CTFs** and **aut
 - 📁 **Working directory persistence** between commands
 - 🧾 **Command + output history** stored in cookies
 
----
 
 ## 🚀 Quick Start
 
@@ -43,7 +41,6 @@ http://target.local/shell?pw=your-password
 
 Type commands into the UI and execute them. ✅
 
----
 
 ## ⚙️ Notes / Limits
 
@@ -51,7 +48,6 @@ Type commands into the UI and execute them. ✅
 - 📦 Max output buffer: **10MB**
 - 🐧 Shell used: **`/bin/bash`**
 
----
 
 ## ⚠️ Disclaimer
 
